@@ -1,0 +1,1 @@
+# test_task_from_service_hand
